@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Jemina-Asmani191
 - 👀 I’m interested in Designing and Programming.
-- 🌱 I’m currently pursuing MCA.
 - 📫 How to reach me https://www.linkedin.com/in/jemina-asmani-99b6b418a/
 
 <!---
